@@ -177,22 +177,22 @@ React platform powered by Google Gemini API for high-accuracy sentiment analysis
 <h2 align="center">📊 GITHUB INTEL</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushisgh01&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideNums=c9d1d9&dates=8b949e" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushisgh01&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideNums=c9d1d9&dates=8b949e" height="180" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushisgh01&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ffffff&area=true&area_color=00ff4133&hide_border=true&custom_title=CONTRIBUTION+MATRIX" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushisgh01&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ffffff&area=true&area_color=00ff4133&hide_border=true&custom_title=CONTRIBUTION+MATRIX" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -206,9 +206,9 @@ React platform powered by Google Gemini API for high-accuracy sentiment analysis
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khushisgh01/Khushisgh01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khushisgh01/Khushisgh01/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Khushisgh01/Khushisgh01/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
@@ -222,7 +222,7 @@ React platform powered by Google Gemini API for high-accuracy sentiment analysis
 <h2 align="center">🏆 ACHIEVEMENT UNLOCKED</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Khushisgh01&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="Trophies"/>
 </div>
 
 <br/>
