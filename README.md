@@ -265,22 +265,22 @@ React platform powered by Google Gemini API for high-accuracy sentiment analysis
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-260785323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
   </a>
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://https://khushi-s-portfolio-1kgv.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=About.me&logoColor=0d0d0d" />
-  </a>
+  </a> -->
   &nbsp;
   <a href="mailto:khushisarojj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
   </a>
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://leetcode.com/Khushi12006" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d0d0d" />
-  </a>
-  &nbsp;
+  </a> -->
+  <!-- &nbsp;
   <a href="https://codolio.com/profile/Khushi01" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-00ff41?style=for-the-badge&logoColor=0d0d0d&labelColor=0d0d0d" />
-  </a>
+  </a> -->
 </p>
 
 <br/>
