@@ -246,15 +246,14 @@ React platform powered by Google Gemini API for high-accuracy sentiment analysis
 <!--  LeetCode Stats                             -->
 <!-- ──────────────────────────────────────────── -->
 
-<h2 align="center">⚔️ LEETCODE GRIND</h2>
+<!-- <h2 align="center">⚔️ LEETCODE GRIND</h2>
 
-<div align="center">
+<div align="center"> -->
   <!-- Replace Khushi12006 with your actual LeetCode handle -->
-  <img src="https://leetcard.jacoblin.cool/Khushi12006?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="60%" alt="LeetCode Stats"/>
-</div>
 
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- </div><!-- <br/> -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> -->
 
 <!-- ──────────────────────────────────────────── -->
 <!--  CONNECT WITH ME                            -->
