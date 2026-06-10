@@ -36,13 +36,13 @@
 └─$ whoami
 
   ╔══════════════════════════════════════════════════════════════════╗
-  ║  > Name        : Khushi                                         ║
-  ║  > Degree      : B.Tech CSE (AI) @ IGDTUW | 2024–2028          ║
-  ║  > CGPA        : 9.61 / 10.0  🔥                               ║
-  ║  > Experience  : Research Intern @ DRDO – SAG Lab               ║
+  ║  > Name        : Khushi                                          ║
+  ║  > Degree      : B.Tech CSE (AI) @ IGDTUW | 2024–2028            ║
+  ║  > CGPA        : 9.61 / 10.0  🔥                                ║
+  ║  > Experience  : Summer Intern @ GAIL,India (Limited)
+                     Research Intern @ DRDO – SAG Lab               ║
   ║  >               Summer Intern @ IGDTUW (AI Full-Stack)         ║
-  ║  > Superpower  : Turning coffee into full-stack AI apps ☕       ║
-  ║  > Currently   : Levelling up in DSA + system design            ║
+  ║  > Currently   : Levelling up in DSA + AI/ML                    ║
   ╚══════════════════════════════════════════════════════════════════╝
 
 $ cat achievements.txt
@@ -90,7 +90,7 @@ $ ./status.sh
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,cloudinary&theme=dark&perline=4" />
 </p>
 
-<h3 align="center">🤖 AI / ML & Vision</h3>
+<!-- <h3 align="center">🤖 AI / ML & Vision</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark&perline=3" />
   &nbsp;
@@ -98,7 +98,7 @@ $ ./status.sh
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0d0d0d" />
   <img src="https://img.shields.io/badge/LLMs-00ff41?style=for-the-badge&logo=openai&logoColor=0d0d0d&labelColor=0d0d0d" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-39ff14?style=for-the-badge&labelColor=0d0d0d" />
-</p>
+</p> -->
 
 <h3 align="center">🚀 DevOps & Tools</h3>
 <p align="center">
@@ -112,10 +112,10 @@ $ ./status.sh
 <!--  FEATURED PROJECTS (from resume)            -->
 <!-- ──────────────────────────────────────────── -->
 
-<h2 align="center">🔥 PROJECTS I ACTUALLY SHIPPED</h2>
+<!-- <h2 align="center">🔥 PROJECTS I ACTUALLY SHIPPED</h2> -->
 
 <!-- Project Cards — replace repo names with your real GitHub repo names -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Khushisgh01/AI_RollCall-landingpage">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushisgh01&repo=AI_RollCall-landingpage&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&description_lines_count=2" />
   </a>
@@ -125,26 +125,26 @@ $ ./status.sh
   </a>
 </div>
 
-<br/>
+<br/> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Khushisgh01/Travel-Cravings">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushisgh01&repo=Travel-Cravings&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&description_lines_count=2" />
   </a>
 </div>
 
-<br/>
+<br/> -->
 
 <!-- Project Highlight Blurbs -->
-<table align="center" border="0">
+<!-- <table align="center" border="0">
 <tr>
 <td width="50%" valign="top">
 
 **🤖 AI-RollCall**
 Real-time attendance via face + voice biometrics. Built with `FaceRecognition`, `OpenCV`, `Resemblyzer`, `Flask`, `Supabase`. QR enrollment, confidence scores, exportable records.
 
-</td>
-<td width="50%" valign="top">
+</td> -->
+<!-- <td width="50%" valign="top">
 
 **🎓 StudyHub Resources**
 Centralized academic hub for 2000+ IGDTUW students. 200+ notes, internships, scholarships, CGPA calculator. Built on MERN + Vite + TailwindCSS.
@@ -168,7 +168,7 @@ React platform powered by Google Gemini API for high-accuracy sentiment analysis
 </table>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> -->
 
 <!-- ──────────────────────────────────────────── -->
 <!--  GITHUB STATS                               -->
