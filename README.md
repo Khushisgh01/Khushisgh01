@@ -122,24 +122,6 @@ Internships & research collaborations
 <!--  PROJECTS                                    -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 🔥 Projects
-
-<div align="center">
-  <a href="https://github.com/Khushisgh01/AI_RollCall-landingpage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushisgh01&repo=AI_RollCall-landingpage&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/Khushisgh01/Travel-Cravings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushisgh01&repo=Travel-Cravings&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&description_lines_count=2" />
-  </a>
-</div>
-
-<br/>
-
-| Project | Description |
-|---|---|
-| 🤖 **AI-RollCall** | End-to-end AI attendance system combining computer vision (`FaceRecognition`, `OpenCV`) and voice biometrics (`Resemblyzer`, `Librosa`) to identify students in real time from class photos and voice responses. Streamlit frontend, Supabase (PostgreSQL) backend, QR-based course enrollment, exportable records with confidence scores. |
-| ✈️ **TravelCravings** | Full-stack travel listings platform with complete MVC architecture — CRUD listings/reviews/users, Cloudinary image management, Joi-validated schemas. Includes a context-aware AI chatbot (Groq API) for travel guidance, Mapbox Geocoding for locations, and Passport.js session-based auth with role-based authorization. |
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ═══════════════════════════════════════════ -->
