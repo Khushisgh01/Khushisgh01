@@ -33,44 +33,43 @@
 
 ## 👩‍💻 About Me
 
-```bash
-┌──(khushi㉿github)-[~/about-me]
-└─$ whoami
+I'm a B.Tech CSE (AI) student at IGDTUW who likes building things end-to-end — from computer-vision pipelines to full-stack apps — and then shipping them for real people to use.
 
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  > Name        : Khushi                                          ║
-  ║  > Degree      : B.Tech CSE (AI) @ IGDTUW | 2024–2028             ║
-  ║  > CGPA        : 9.62 / 10.0  🔥                                  ║
-  ║  > Currently   : Levelling up in DSA + AI/ML                      ║
-  ╚══════════════════════════════════════════════════════════════════╝
+<table>
+<tr>
+<td width="50%" valign="top">
 
-$ cat experience.txt
-  ⚙️  Automation Intern    » GAIL (Gas Authority of India Ltd.) — Jun–Jul 2026
-                             Built a Bank Guarantee validation prototype in Python
-                             (PyMuPDF, Tesseract OCR, RapidFuzz) scoring 35+
-                             compliance checks against digital & scanned PDFs.
+**🎓 Education**
+B.Tech CSE (AI), IGDTUW · 2024–2028
+CGPA: **9.62 / 10.0** 🔥
 
-  🔬 Research Intern       » DRDO – SAG Lab — Jan–Feb 2026
-                             Designed a hallucination-benchmarking pipeline using
-                             YOLOv8 + Vision Transformers on 20,000+ images;
-                             found a 51.9% hallucination rate at 81.1% confidence.
+**📍 Focus**
+Full-Stack Development + AI/ML
 
-  🧠 Full-Stack AI Intern  » IGDTUW — Summer 2025
-                             Built a React.js mental wellness platform (mood
-                             journaling, guided exercises, crisis support) with
-                             Groq API-powered sentiment analysis.
+</td>
+<td width="50%" valign="top">
 
-$ cat achievements.txt
-  🥇  1st position (all contributors) — Snowscript Winter of Code '26, GDG IGDTUW
-  🥈  Semi-Finalist — Flipkart Grid 8.0 (National-level hackathon)
-  🎯  Top 1500 — Google's Big Code '26 (National coding challenge)
-  🏆  Top 17 of 1200+ — Hackground India 2k25 (Team Lead, team of 4)
-  🚀  Top 50 — Smart India Hackathon '25 @ IGDTUW internal round
-  💻  400+ DSA problems solved on LeetCode
+**🚀 Currently**
+Levelling up in DSA + AI/ML
 
-$ ./status.sh
-  [██████████████████████] 100% — Currently shipping code 🚀
-```
+**🧭 Open to**
+Internships & research collaborations
+
+</td>
+</tr>
+</table>
+
+### 💼 Experience
+
+| Role | Organization | Duration |
+|---|---|---|
+| ⚙️ **Automation Intern** | GAIL (Gas Authority of India Ltd.) | Jun – Jul 2026 |
+| 🔬 **Research Intern** | DRDO – SAG Lab | Jan – Feb 2026 |
+| 🧠 **Full-Stack AI Intern** | IGDTUW | Summer 2025 |
+
+- **GAIL** — Built a Bank Guarantee validation prototype in Python (PyMuPDF, Tesseract OCR, RapidFuzz), scoring 35+ compliance checks across digital & scanned PDFs.
+- **DRDO – SAG Lab** — Designed a hallucination-benchmarking pipeline using YOLOv8 + Vision Transformers on 20,000+ images, identifying a 51.9% hallucination rate at 81.1% confidence.
+- **IGDTUW** — Built a React.js mental wellness platform (mood journaling, guided exercises, crisis support) with Groq API-powered sentiment analysis.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
